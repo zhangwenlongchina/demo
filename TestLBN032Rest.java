@@ -2,7 +2,7 @@ package com.qb.modules.interfaces.client.befloan;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//测试从本地提交代码到远程库
 import org.junit.Test;
 
 import com.alibaba.fastjson.TypeReference;
